@@ -28,7 +28,7 @@ Recuperación de información
 Embeddings y base vectorial
         ↓
 Retrieval-Augmented Generation
-````
+```
 
 ## Tecnologías
 
