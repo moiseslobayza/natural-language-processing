@@ -1,4 +1,3 @@
-````
 # Procesamiento de Lenguaje Natural
 
 Colección de notebooks prácticos desarrollados durante mi formación en Ciencia de Datos e Inteligencia Artificial.
@@ -53,5 +52,3 @@ Los notebooks muestran una progresión desde técnicas tradicionales de procesam
 **Moisés Lobayza**
 
 Estudiante de Ciencia de Datos e Inteligencia Artificial.
-
-```
